@@ -4,4 +4,4 @@ var EmailID = 'fariduddinkhan23@gmail.com'
 
 //accountID = 2
 
-console.log(accountID)
+console.table([accountID, Name, EmailID])
